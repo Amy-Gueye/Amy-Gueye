@@ -1,34 +1,31 @@
-## Hi there 👋
-I'm a Bioinformatics student passionate about genomics and evolutionary biology.
+# Hi there 
+I'm a bioinformatician passionate about genomics and evolutionary biology.
 
-Currently working at IBENS on the evolutionary analysis of transposable elements in Arabidopsis thaliana.
+I am currently an intern at the Institute of Biology of the École Normale Supérieure (IBENS), where I work on the evolutionary analysis of transposable elements in *Arabidopsis thaliana*.
+## Research interests
 
-# Research interests
 **Comparative genomics**
 **Transposable elements**
 **Evolutionary biology**
 **Bioinformatics pipelines**
 **Oxford Nanopore sequencing**
 **Reproducible research**
-# Technical skills
-Python
-R
-Bash
-Linux
-Snakemake
-Git
-HPC
-samtools
-bedtools
-Featured projects
+## Technical skills
+**Python**
+**R**
+**Bash**
+**Linux**
+**Snakemake**
+**Git**
+**HPC**
+**samtools**
+**bedtools**
 
-➡️ TE Analysis Pipeline
-
-➡️ Synteny Detection
-
-➡️ Phylogenetic Analysis
-
-➡️ Snakemake Workflow
+## Featured projects
+TE Analysis Pipeline
+Synteny Detection
+Phylogenetic Analysis
+Snakemake Workflow
 <!--
 **Amy-Gueye/Amy-Gueye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
